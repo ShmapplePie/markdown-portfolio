@@ -1,1 +1,1 @@
-(https://www.github.io/shmapplepie)
+https://www.github.io/shmapplepie
