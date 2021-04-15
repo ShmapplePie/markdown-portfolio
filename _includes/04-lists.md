@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+**I LOVE PANDAS**
+_coding is fun too_
+### Electronics are the best
+# Video Games Ruke
